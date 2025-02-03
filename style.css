@@ -1,0 +1,17 @@
+@media screen and (min-width: 1900px) {
+    /* Your styles for screens larger than 2000px */
+
+    .heading img{
+        display: none;
+    }
+    .photo{
+        height: 700px;
+    }
+    .navbar_container{
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+
+ 
+  }
+  
